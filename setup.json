@@ -18,27 +18,27 @@
 
     "box1SquaresInfo": {
 
-            "box1Square1Text": "Square 1",
-            "box1Square1PopUpTitle": "Market Risk",
-            "box1Square1PopUpText": "Box 1, square 1, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "box1Square1Text": "Valuation Scenarios",
+            "box1Square1PopUpTitle": "Parallel Valuation Scenarios",
+            "box1Square1PopUpText": "Tesseract Risk has a concept of mulitple valuation scenarios to create parallel PnL data sets. Each scenario can use a different market data policy and different valuation models to give different stake holders different views of the market. The system then allows for the comparison of different valuations and can explain the differences.",
         
-            "box1Square2Text": "Square 2",
-            "box1Square2PopUpTitle": "Market Risk Time Series",
-            "box1Square2PopUpText": "Box 1, square 2, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "box1Square2Text": "PnL",
+            "box1Square2PopUpTitle": "Profit and Loss",
+            "box1Square2PopUpText": "Tesseract Risk uses valuation scenarios to generate multiple, parallel PnL datasets - e.g. an intraday view, an official risk view, etc. It's reporting allows any two valuations to be compared, e.g. DTD change in official view or change in today's intraday vs yesterday's official. It's attribution feature enables risk reporters and front office to explain the change, e.g. change due to market data updates.",
 
-            "box1Square3Text": "Square 3",
-            "box1Square3PopUpTitle": "Market Risk Square 3 Title",
+            "box1Square3Text": "Exposure",
+            "box1Square3PopUpTitle": "Pricing Exposure",
             "box1Square3PopUpText": "Box 1, square 3, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
 
-            "box1Square4Text": "Square 4",
-            "box1Square4PopUpTitle": "Market Risk Square 4 Title",
+            "box1Square4Text": "VaR",
+            "box1Square4PopUpTitle": "Value at Risk",
             "box1Square4PopUpText": "Box 1, square 4, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
 
-            "box1Square5Text": "Square 5",
-            "box1Square5PopUpTitle": "Market Risk Square 5 Title",
+            "box1Square5Text": "Limits",
+            "box1Square5PopUpTitle": "Limit Management and Reporting",
             "box1Square5PopUpText": "Box 1, square 5, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
 
-            "box1Square6Text": "Square 6",
+            "box1Square6Text": "Valuation Models",
             "box1Square6PopUpTitle": "Market Risk Square 6 Title",
             "box1Square6PopUpText": "Box 1, square 6, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
